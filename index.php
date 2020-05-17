@@ -1,3 +1,3 @@
 Git Deployment Testing<br/>
 Public Repo<br/>
-v1.5.1
+v1.5.2
